@@ -14,7 +14,7 @@ Replace the channel ID's within the brand_channels.json with your own discord ch
 
 
 $ git clone https://github.com/ncoulthurst/VintBot.git
-$ cd Vinted-webhook\bot
+$ cd VintBot\bot
 $ pip install -r requirements.txt
 
 $ python main.py
