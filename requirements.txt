@@ -1,0 +1,4 @@
+requests
+pyVinted
+replace item.py in pyVinted library with the one inside this git
+discord_webhook

@@ -1,0 +1,331 @@
+{
+  "channel_mappings": {
+    "nike": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "nike",
+        "air max",
+        "nike x stussy",
+        "nike x supreme",
+        "nike acg",
+        "nike sb",
+        "acg",
+        "nike dunk",
+        "nike air",
+        "nike x"
+      ]
+    },
+    "jordan": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "jordan",
+        "air jordan",
+        "jordan x"
+      ]
+    },
+    "adidas": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "adidas",
+        "adidas originals",
+        "y-3",
+        "adidas x"
+      ]
+    },
+    "yeezy": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "yeezy",
+        "yeezy boost",
+        "yeezy gap"
+      ]
+    },
+    "vintage": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "vintage",
+        "retro",
+        "og",
+        "old school",
+        "90s",
+        "80s",
+        "70s"
+      ]
+    },
+    "ralph lauren": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "ralph lauren",
+        "polo ralph lauren",
+        "polo sport",
+        "rlx",
+        "palace x ralph lauren",
+        "purple label",
+        "ralph lauren purple label"
+      ]
+    },
+    "stussy": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "stussy",
+        "stüssy",
+        "nike x stussy",
+        "stussi",
+        "stussy x"
+      ]
+    },
+    "supreme": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "supreme",
+        "supreme x nike",
+        "supreme x north face",
+        "supreme x",
+        "sup"
+      ]
+    },
+    "football-shirts": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "fc barcelona",
+        "barcelona",
+        "barca",
+        "fcb",
+        "fc barca",
+        "real madrid",
+        "rm",
+        "madrid",
+        "ac milan",
+        "ac milan fc",
+        "milan",
+        "arsenal",
+        "chelsea",
+        "chelsea fc",
+        "manchester united",
+        "man utd",
+        "man united",
+        "united"
+      ]
+    },
+    "the north face": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "the north face",
+        "tnf",
+        "north face",
+        "supreme x north face"
+      ]
+    },
+    "palace": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "palace",
+        "palace x ralph lauren",
+        "palace skateboards",
+        "palace x",
+        "palace x adidas"
+      ]
+    },
+    "bape": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "bape",
+        "a bathing ape",
+        "a bathinng ape (BAPE)",
+        "baby milo",
+        "bape sta"
+      ]
+    },
+    "clints": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "clints",
+        "clints archive",
+        "clints london"
+      ]
+    },
+    "stone island": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "stone island",
+        "stone island shadow project",
+        "si"
+      ]
+    },
+    "cp company": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "c.p. company",
+        "cp company",
+        "c.p company"
+      ]
+    },
+    "dior": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "dior",
+        "christian dior",
+        "dior homme"
+      ]
+    },
+    "gucci": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "gucci",
+        "gucci x",
+        "gucci x adidas",
+        "gucci x north face"
+      ]
+    },
+    "balenciaga": {
+      "channel_id":  INSERT CHANNEL ID HERE,
+      "aliases": [
+        "balenciaga",
+        "balenciaga x adidas",
+        "balenciaga x"
+      ]
+    },
+    "burberry": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "burberry",
+        "burberrys",
+        "burberry london",
+        "burberry prorsum"
+      ]
+    },
+    "moncler": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "moncler",
+        "moncler genius",
+        "moncler x"
+      ]
+    },
+    "prada": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "prada",
+        "prada sport",
+        "linea rossa"
+      ]
+    },
+    "off-white": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "off-white",
+        "off white",
+        "offwhite",
+        "nike x off-white",
+        "off-white x nike"
+      ]
+    },
+    "acne": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "acne",
+        "acne studios",
+        "acne jeans"
+      ]
+    },
+    "canada goose": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "canada goose",
+        "canadagoose"
+      ]
+    },
+    "casablanca": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "casablanca",
+        "casa sport",
+        "casablanca tennis club"
+      ]
+    },
+    "valentino": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "valentino",
+        "valentino garavani"
+      ]
+    },
+    "margiela": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "margiela",
+        "maison margiela",
+        "martin margiela",
+        "mm6"
+      ]
+    },
+    "carhartt": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "carhartt",
+        "carhartt wip",
+        "carhartt work in progress"
+      ]
+    },
+    "corteiz": {
+      "channel_id": INSERT CHANNEL ID HERE,
+      "aliases": [
+        "corteiz",
+        "crtz",
+        "corteiz rtw"
+      ]
+    },
+    "cole buxton": {
+      "channel_id":  INSERT CHANNEL ID HERE,
+      "aliases": [
+        "cole buxton",
+        "colebuxton"
+      ]
+    },
+    "represent": {
+      "channel_id":  INSERT CHANNEL ID HERE,
+      "aliases": [
+        "represent",
+        "represent clo",
+        "representclo"
+      ]
+    },
+    "our legacy": {
+      "channel_id":  INSERT CHANNEL ID HERE,
+      "aliases": [
+        "our legacy",
+        "our legacy work shop",
+        "ourlegacy"
+      ]
+    },
+    "y2k": {
+      "channel_id":  INSERT CHANNEL ID HERE,
+      "aliases": [
+        "y2k",
+        "2000s",
+        "y2k aesthetic",
+        "00s"
+      ]
+    },
+    "apple": {
+      "channel_id":  INSERT CHANNEL ID HERE,
+      "aliases": [
+        "apple",
+        "macbook",
+        "iphone",
+        "ipad",
+        "airpods",
+        "apple watch"
+      ]
+    },
+    "lego": {
+      "channel_id":  INSERT CHANNEL ID HERE,
+      "aliases": [
+        "lego",
+        "legos",
+        "lego star wars",
+        "lego technic"
+      ]
+    }
+  }
+}
