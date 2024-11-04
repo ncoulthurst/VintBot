@@ -1,4 +1,4 @@
 requests
 pyVinted
-replace item.py in pyVinted library with the one inside this git
+replace item.py in pyVinted library with the one inside this repository
 discord_webhook
