@@ -10,6 +10,7 @@ A monitoring tool which fetches the newest items uploaded to the Vinted marketpl
 
 Replace the item.py file in the PyVinted library with the one provided in this repository.
 Replace the Rapid API keys & discord bot token inside main.py with your own.
+Replace the channel ID's within the brand_channels.json with your own discord channel IDs.
 
 
 $ git clone https://github.com/ncoulthurst/VintBot.git
